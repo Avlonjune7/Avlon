@@ -2,7 +2,7 @@
 
 * [🏠 帮助文档](README.md)
 * [官方购买地址](https://buy.wvker.com)
-* [📃 其他平台配置教程](install/README.md)
+* [📃 配置教程](install/README.md)
   * [📱 Android安卓](install/and.md)
   * [🍎 Apple IOS苹果](install/ios.md)
   * [🖥 Windows电脑](install/win.md)
