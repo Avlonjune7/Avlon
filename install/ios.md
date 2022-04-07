@@ -12,7 +12,7 @@ description: Shadowrocket
 
 * 打开APP 选中「<mark style="color:orange;">**首页**</mark>」选项卡（**确保是未连接状态**），点击右上角的「<mark style="color:orange;">**+**</mark>」。
 
-![1](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/1.png)
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/1.png)
 
 * 在「<mark style="color:orange;">**添加节点**</mark>」中选择「<mark style="color:orange;">**Subscribe**</mark>」类型。
 * 将<mark style="color:orange;">**订阅链接/URL链接**</mark>粘贴在填入下面「<mark style="color:orange;">**URL**</mark>」文本框中
@@ -42,20 +42,29 @@ description: Shadowrocket
 如出现此种情况 请关闭加速器重新打开 运行给代理权限即可&#x20;
 {% endhint %}
 
-![img](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/image-4.png)
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/image-4.png)
 
-> 推荐香港ABCD节点 上推特和INS的建议选香港以外的节点例如新加坡ABCD美国ABCD，如还是上不了检查加速器有没有到期或者联系客服处理！ {.is-info}
+{% hint style="info" %}
+:hotsprings:推荐🇭🇰香港节点🚀速度最快，<mark style="color:red;">**推特和INS**</mark>的建议选🇭🇰香港以外的节点，例如🇯🇵日本🇸🇬新加坡🇺🇸美国🇹🇼台湾等。
+{% endhint %}
 
-> 完成！点击下方油管官网连接测试连通性 {.is-success}
+{% hint style="success" %}
+:smile:完成！点击下方油管官网连接测试连通性。
+{% endhint %}
 
-* [💻youtube.com](https://www.youtube.com) {.links-list}
+{% embed url="https://www.youtube.com" %}
 
-![YouTube-logo-pc-2-600x314](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/YouTube-logo-pc-2-600x314.png)
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/YouTube-logo-pc-2-600x314.png)
 
-***
+<details>
 
-### 更多知识
+<summary><mark style="color:red;">⚠️郑重声明</mark></summary>
 
-* 💻更多知识👈点击前往 {.links-list}
+本科普仅限于查阅学习资料和从事科研外贸工作的人群，所涉及到的工具资源均来自于互联网，本站对这些资源的可用性、安全性和版权不负有任何责任，如有侵权，请联系我删除。在使用过程中，请遵守中华人民共和国相关的法律法规，切勿发表和关注任何不利于国家安全、民族团结和中华民族伟大复兴的言论，一定要爱国明理，极端政治、宗教涉恐人士请绕道。
 
-> ⚠️郑重声明：本科普仅限于查阅学习资料和从事科研外贸工作的人群，所涉及到的工具资源均来自于互联网，本站对这些资源的可用性、安全性和版权不负有任何责任，如有侵权，请联系我删除。在使用过程中，请遵守中华人民共和国相关的法律法规，切勿发表和关注任何不利于国家安全、民族团结和中华民族伟大复兴的言论，一定要爱国明理，极端政治、宗教涉恐人士请绕道！ {.is-warning}
+</details>
+
+{% content-ref url="../help/" %}
+[help](../help/)
+{% endcontent-ref %}
+

@@ -57,3 +57,27 @@ description: Clash X
 * 最后在配置菜单中将**clash设置为系统代理即配置完毕**
 
 ![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210802002341.png)
+
+{% hint style="info" %}
+:hotsprings:推荐🇭🇰香港节点🚀速度最快，<mark style="color:red;">**推特和INS**</mark>的建议选🇭🇰香港以外的节点，例如🇯🇵日本🇸🇬新加坡🇺🇸美国🇹🇼台湾等。
+{% endhint %}
+
+{% hint style="success" %}
+:smile:完成！点击下方油管官网连接测试连通性。
+{% endhint %}
+
+{% embed url="https://www.youtube.com" %}
+
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/YouTube-logo-pc-2-600x314.png)
+
+<details>
+
+<summary><mark style="color:red;">⚠️郑重声明</mark></summary>
+
+本科普仅限于查阅学习资料和从事科研外贸工作的人群，所涉及到的工具资源均来自于互联网，本站对这些资源的可用性、安全性和版权不负有任何责任，如有侵权，请联系我删除。在使用过程中，请遵守中华人民共和国相关的法律法规，切勿发表和关注任何不利于国家安全、民族团结和中华民族伟大复兴的言论，一定要爱国明理，极端政治、宗教涉恐人士请绕道。
+
+</details>
+
+{% content-ref url="../help/" %}
+[help](../help/)
+{% endcontent-ref %}
