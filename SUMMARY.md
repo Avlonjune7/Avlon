@@ -2,9 +2,9 @@
 
 * [🏠 帮助文档](README.md)
 * [官方购买地址](https://buy.wvker.com)
-* [教程](jiao-cheng/README.md)
-  * [📱 Android安卓](jiao-cheng/android-an-zhuo.md)
-  * [🍎 Apple IOS苹果](jiao-cheng/apple-ios-ping-guo.md)
+* [配置教程](pei-zhi-jiao-cheng/README.md)
+  * [📱 Android安卓](pei-zhi-jiao-cheng/android-an-zhuo.md)
+  * [🍎 Apple IOS苹果](pei-zhi-jiao-cheng/apple-ios-ping-guo.md)
 * [Page 2](page-2.md)
 * [Page 3](page-3.md)
 * [Page 4](page-4.md)

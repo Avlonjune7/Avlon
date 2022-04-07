@@ -56,11 +56,11 @@ description: Clash For Android
 ![img](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210802002524.jpg)
 
 {% hint style="info" %}
-推荐🇭🇰香港ABCD节点 上推特和INS的建议选香港以外的节点例如新加坡ABCD美国ABCD，如还是上不了检查加速器有没有到期或者联系客服处理！
+:hotsprings:推荐🇭🇰香港节点🚀速度最快，<mark style="color:red;">**推特和INS**</mark>的建议选🇭🇰香港以外的节点，例如🇯🇵日本🇸🇬新加坡🇺🇸美国🇹🇼台湾等。
 {% endhint %}
 
 {% hint style="success" %}
-完成！点击下方油管官网连接测试连通性。
+:smile:完成！点击下方油管官网连接测试连通性。
 {% endhint %}
 
 {% embed url="https://www.youtube.com" %}
