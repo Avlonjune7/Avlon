@@ -10,11 +10,19 @@ description: Clash For Android
 
 ### 下载
 
+{% tabs %}
+{% tab title="🔥⬇️推荐下载地址" %}
 {% embed url="https://gqzw.lanzouo.com/b05nukgch" %}
+{% endtab %}
 
+{% tab title="⬇️备用下载地址" %}
 {% embed url="https://gqzw.lanzoui.com/b05nukgch" %}
+{% endtab %}
 
+{% tab title="⬇️GitHub官方开源地址" %}
 {% embed url="https://github.com/Kr328/ClashForAndroid" %}
+{% endtab %}
+{% endtabs %}
 
 {% hint style="success" %}
 如果提示下载失败的话，请更换其他手机浏览器再试一次！
@@ -28,11 +36,13 @@ description: Clash For Android
 
 * 选择从<mark style="color:orange;">**URL导入**</mark>→**将**<mark style="color:red;">**订阅链接/URL**</mark>**链接粘贴在URL栏 然后点保存**
 
-![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/image-20211028021856812.png)
+<details>
 
-{% hint style="info" %}
-【订阅链接/URL链接】复制两个箭头中间的内容，就是网址一样的东西，确保前后无空格和特殊字符 就是复制这个链接进去！一般购买后机器人会发送过去请查看聊天记录及邮箱！
-{% endhint %}
+<summary><mark style="color:red;"><strong>订阅链接/URL是什么</strong>？</mark></summary>
+
+是很长的一段网址链接，打开是一串API字符串。例：【订阅链接/URL：】<mark style="color:red;">https://\*\*\*.com/api/v1/client/subscribe?token=\*\*\*\*</mark>红字部分就是你的订阅链接，每个人都是单独的。确保前后没有空格和中文，复制导入进加速器即可，一般购买后机器人会发送过去请查看聊天记录及邮箱！
+
+</details>
 
 {% hint style="success" %}
 无【订阅链接/URL】点击下方按钮购买
@@ -42,8 +52,8 @@ description: Clash For Android
 
 ![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/41564165165.jpg)
 
-{% hint style="info" %}
-保存失败请检查订阅链接，确保前后无中文空格和特殊字符 ，或者请关闭加速器连接！
+{% hint style="warning" %}
+保存失败请检查订阅链接，确保前后无中文空格和特殊字符 ，或者请先关闭加速器连接！
 {% endhint %}
 
 * 在<mark style="color:orange;">**首页配置**</mark>中选中新加入的→<mark style="color:orange;">**订阅链接/URL**</mark>**配置→回到首页点**<mark style="color:orange;">**启动**</mark>
