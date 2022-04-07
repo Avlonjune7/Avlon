@@ -14,13 +14,6 @@ description: 请务必仔细阅读文档，你所遇到的一切问题，该文�
 具体各平台使用教程，请点左上角"三”列表图标可展开教程也可点下方导航快速直达
 {% endhint %}
 
-* 📱**Android安卓手机教程**_👈点击前往_
-* 🍎**IOS苹果手机教程**_👈点击前往_
-* 🖥️**Windows电脑教程**_👈点击前往_
-* 💻**Mac苹果电脑教程**_👈点击前往_
-* ❓**常见问题解决办法**_👈点击前往_
-* [⬇️**下载中心**_👈点击前往_](https://gqzw.lanzouo.com/b0mwll2d) {.links-list}
-
 {% content-ref url="install/and.md" %}
 [and.md](install/and.md)
 {% endcontent-ref %}
