@@ -15,3 +15,4 @@
   * [我怎么看是否到期/流量用尽](help/wo-zen-mo-kan-shi-fou-dao-qi-liu-liang-yong-jin.md)
   * [节点介绍](help/jie-dian-jie-shao.md)
 * [下载中心](https://gqzw.lanzouo.com/b0mwll2d)
+* [怎么让网路全部走加速器](zen-mo-rang-wang-lu-quan-bu-zou-jia-su-qi.md)
