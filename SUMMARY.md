@@ -13,5 +13,5 @@
 * [❓ 常见问题解决](help/README.md)
   * [我该怎么更新订阅](help/UP.md)
   * [我怎么看是否到期/流量用尽](help/wo-zen-mo-kan-shi-fou-dao-qi-liu-liang-yong-jin.md)
-* [节点介绍](jie-dian-jie-shao.md)
+  * [节点介绍](help/jie-dian-jie-shao.md)
 * [下载中心](https://gqzw.lanzouo.com/b0mwll2d)

@@ -2,9 +2,25 @@
 
 <details>
 
-<summary>普通节点（例如HK01）</summary>
+<summary>普通节点（例🇭🇰 🇯🇵）</summary>
 
+推荐使用这些节点 其中香港地区节点速度最快但是注意，香港节点，有些时候上不了ins、推特，因为有些客户连上节点后开启了自己的GPS定位，导致IP判定为中国，当然也有一部分原因是亚马逊服务器的自身IP段导致的，如果要上INS推特的话推荐用香港以外节点。
 
+</details>
+
+<details>
+
+<summary>流媒体节点（例🇭🇰<strong>解锁流媒体</strong>🇯🇵<strong>解锁流媒体</strong>）</summary>
+
+主要用于解锁nerflix奈飞、TVB、BBC、HBO、迪斯尼、动画疯、哔哩哔哩国际版等流媒体服务。
+
+</details>
+
+<details>
+
+<summary>游戏节点（例10倍计费）</summary>
+
+此节点，为游戏专线，国内最顶级的国际线路IPLC华为cc，特点是，延迟极低，加速海外游戏效果佳，同网易UU，雷神等一个海外线路，可替代此类产品，带宽价格极其昂贵，大概0.2美元/G（人民币1.2元），所以设置8倍计费，也就是你用1G流量我们实际扣除8G，但是带宽小只有50M的带宽，其他节点都是1000m的，如无特殊需求还是推荐使用普通节点。
 
 </details>
 
@@ -39,7 +55,7 @@ Aws是全球最大的云服务提供商，AWS 的网络可用性在所有云服�
 
 通过创建云连接，将用户所需要实现互通的不同区域的网络实例加载到创建的云连接实例中，这里的网络实例可以是用户自己创建的VPC实例或用户创建的用于本地数据中心接入的VGW实例，也可以是其它用户授予权限允许加载的VPC实例，最后通过配置需要互通的网络实例之间的域间带宽，就可以快速的为您提供全球网络互通服务。
 
-![](<.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 参考文档：[https://support.huaweicloud.com/productdesc-cc/cc\_01\_0001.html](https://support.huaweicloud.com/productdesc-cc/cc\_01\_0001.html)
 
