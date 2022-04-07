@@ -15,8 +15,8 @@ PS4或者switch使用clash来代理需要满足2个条件：
 
 先看这个教程配置好电脑环境
 
-{% content-ref url="../win.md" %}
-[win.md](../win.md)
+{% content-ref url="win.md" %}
+[win.md](win.md)
 {% endcontent-ref %}
 
 ### Clash配置
