@@ -52,4 +52,4 @@ description: 请务必仔细阅读文档，你所遇到的一切问题，该文�
 
 ****
 
-![image-20211030121937911](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/image-20211030121937911.png)
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/image-20211030121937911.png)
