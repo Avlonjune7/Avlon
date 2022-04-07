@@ -60,11 +60,11 @@ description: Windows For Clash
 
 ![img](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210801232853.png)
 
-最后在在常规中把**系统代理**打开**即配置完毕 同时可以看下状态栏位置蓝色小猫变成黄色**
+最后在在<mark style="color:orange;">**常规**</mark>中把<mark style="color:orange;">**系统代理**</mark>打开**即配置完毕 同时可以看下状态栏位置蓝色小猫变成黄色**
 
 ![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210801232859.png)
 
-**点开代理→会看到节点列表→下拉顺序选延迟数字小的连接即可**
+**点开**<mark style="color:orange;">**代理**</mark>**→会看到节点列表→下拉顺序选延迟数字小的连接即可**
 
 ![img](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/image-2.png)
 
