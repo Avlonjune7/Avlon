@@ -1,5 +1,6 @@
 ---
 description: Clash For Android
+coverY: 0
 ---
 
 # 📱 Android安卓
