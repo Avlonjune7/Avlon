@@ -9,7 +9,7 @@
 * [📃 其他平台配置教程](install.md)
 * [Linux系统](linux-xi-tong.md)
 * [Openwrt/梅林软路由](openwrt-mei-lin-ruan-lu-you.md)
-* [Page 6](page-6.md)
+* [PS4和Switch](ps4-he-switch.md)
 * [Page 7](page-7.md)
 * [Page 8](page-8.md)
 * [Page 9](page-9.md)
