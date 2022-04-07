@@ -20,7 +20,7 @@ description: Clash For Android
 {% endtab %}
 
 {% tab title="⬇️GitHub官方开源地址" %}
-{% embed url="https://github.com/Kr328/ClashForAndroid" %}
+{% embed url="https://github.com/Kr328/ClashForAndroid/releases" %}
 {% endtab %}
 {% endtabs %}
 

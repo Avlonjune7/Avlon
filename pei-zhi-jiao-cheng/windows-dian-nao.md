@@ -1,21 +1,42 @@
 ---
-description: Shadowrocket
+description: Windows For Clash
 ---
 
-# 🍎 Apple IOS苹果
+# 🖥 Windows电脑
 
 
 
-![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210802001525.jpeg)
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210717102622.png)
+
+### 下载
+
+{% tabs %}
+{% tab title="🔥⬇️推荐下载地址" %}
+{% embed url="https://gqzw.lanzouo.com/b05nukgdi" %}
+{% endtab %}
+
+{% tab title="⬇️备用下载地址" %}
+{% embed url="https://gqzw.lanzoui.com/b05nukgdi" %}
+{% endtab %}
+
+{% tab title="⬇️GitHub官方开源地址" %}
+{% embed url="https://github.com/Fndroid/clash_for_windows_pkg/releases" %}
+{% endtab %}
+{% endtabs %}
+
+{% hint style="warning" %}
+请务必将文件，全部解压出来！
+{% endhint %}
 
 ### 配置教程
 
-* 打开APP 选中「<mark style="color:orange;">**首页**</mark>」选项卡（**确保是未连接状态**），点击右上角的「<mark style="color:orange;">**+**</mark>」。
+下载解压后找到文件夹中的<mark style="color:orange;">**Clash for Windows.exe**</mark>**文件 双击运行**
 
-![1](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/1.png)
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210801232830.png)
 
-* 在「<mark style="color:orange;">**添加节点**</mark>」中选择「<mark style="color:orange;">**Subscribe**</mark>」类型。
-* 将<mark style="color:orange;">**订阅链接/URL链接**</mark>粘贴在填入下面「<mark style="color:orange;">**URL**</mark>」文本框中
+点击主界面的–<mark style="color:orange;">**配置**</mark>
+
+将<mark style="color:orange;">**订阅链接/URL链接**</mark>粘贴在填入文本框中 然后点下载
 
 <details>
 
@@ -31,18 +52,21 @@ description: Shadowrocket
 
 {% embed url="https://buy.wvker.com" %}
 
-![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/2.png)
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/41564165165.jpg)
 
-* 回到<mark style="color:orange;">**首页**</mark>后→点击「<mark style="color:orange;">**刚刚导入的订阅组**</mark>」会更新出所包含的节点
-* 更新出节点后点「<mark style="color:orange;">**连通性测试**</mark>」选延迟数字小的「连接」即可
+![img](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210801232840.png)
 
-![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/3.png)
+显示成功即订阅导入成功
 
-{% hint style="info" %}
-如出现此种情况 请关闭加速器重新打开 运行给代理权限即可&#x20;
-{% endhint %}
+![img](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210801232853.png)
 
-![img](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/image-4.png)
+最后在在常规中把**系统代理**打开**即配置完毕 同时可以看下状态栏位置蓝色小猫变成黄色**
+
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210801232859.png)
+
+**点开代理→会看到节点列表→下拉顺序选延迟数字小的连接即可**
+
+![img](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/image-2.png)
 
 > 推荐香港ABCD节点 上推特和INS的建议选香港以外的节点例如新加坡ABCD美国ABCD，如还是上不了检查加速器有没有到期或者联系客服处理！ {.is-info}
 

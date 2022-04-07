@@ -5,7 +5,7 @@
 * [配置教程](pei-zhi-jiao-cheng/README.md)
   * [📱 Android安卓](pei-zhi-jiao-cheng/android-an-zhuo.md)
   * [🍎 Apple IOS苹果](pei-zhi-jiao-cheng/apple-ios-ping-guo.md)
-* [Page 2](page-2.md)
+  * [🖥 Windows电脑](pei-zhi-jiao-cheng/windows-dian-nao.md)
 * [Page 3](page-3.md)
 * [Page 4](page-4.md)
 * [Page 5](page-5.md)
