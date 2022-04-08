@@ -37,7 +37,7 @@ description: 请务必仔细阅读文档，你所遇到的一切问题，该文�
 ### 🖥️支持那些平台
 
 {% hint style="success" %}
-支持全平台📱安卓、鸿蒙、🍎苹果手机、💻微软WIN10/7/8、安卓苹果平板、苹果MAC电脑（最新一代M1芯片也支持）路由器系统，openwrat，梅林，老毛子，Linx系统笔记本PS4、switch等。
+支持<mark style="color:red;">**全平台**</mark>📱安卓、鸿蒙、🍎苹果手机、💻Windows电脑WIN10/7/8、安卓苹果平板、苹果MAC电脑（最新一代M1芯片也支持）路由器系统，openwrat，梅林，老毛子，Linx系统笔记本PS4、switch等。
 {% endhint %}
 
 {% hint style="info" %}
