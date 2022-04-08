@@ -20,3 +20,4 @@
 * [推特安装注册和设置中文](tui-te-an-zhuang-zhu-ce-he-she-zhi-zhong-wen.md)
 * [Tiktok使用教程](tiktok-shi-yong-jiao-cheng.md)
 * [Telegram安装注册和设置中文](telegram-an-zhuang-zhu-ce-he-she-zhi-zhong-wen.md)
+* [怎么观看奈飞](zen-mo-guan-kan-nai-fei.md)
