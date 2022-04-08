@@ -78,6 +78,6 @@ description: Clash X
 
 </details>
 
-{% content-ref url="../help/" %}
-[help](../help/)
+{% content-ref url="../../help/" %}
+[help](../../help/)
 {% endcontent-ref %}

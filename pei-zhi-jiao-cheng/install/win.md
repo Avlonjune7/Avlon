@@ -1,9 +1,8 @@
 ---
-description: Clash For Android
-coverY: 0
+description: Windows For Clash
 ---
 
-# 📱 Android安卓
+# 🖥 Windows电脑
 
 
 
@@ -13,29 +12,31 @@ coverY: 0
 
 {% tabs %}
 {% tab title="🔥⬇️推荐下载地址" %}
-{% embed url="https://gqzw.lanzouo.com/b05nukgch" %}
+{% embed url="https://gqzw.lanzouo.com/b05nukgdi" %}
 {% endtab %}
 
 {% tab title="⬇️备用下载地址" %}
-{% embed url="https://gqzw.lanzoui.com/b05nukgch" %}
+{% embed url="https://gqzw.lanzoui.com/b05nukgdi" %}
 {% endtab %}
 
 {% tab title="⬇️GitHub官方开源地址" %}
-{% embed url="https://github.com/Kr328/ClashForAndroid/releases" %}
+{% embed url="https://github.com/Fndroid/clash_for_windows_pkg/releases" %}
 {% endtab %}
 {% endtabs %}
 
-{% hint style="success" %}
-如果提示下载失败的话，请更换其他手机浏览器再试一次！
+{% hint style="warning" %}
+请务必将文件，全部解压出来！
 {% endhint %}
 
 ### 配置教程
 
-* 下载安装后打开软件<mark style="color:orange;">**点击配置**</mark>→点击<mark style="color:orange;">**＋新配置**</mark>**（或者右上角+号）**
+下载解压后找到文件夹中的<mark style="color:orange;">**Clash for Windows.exe**</mark>**文件 双击运行**
 
-![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210717102629.jpeg)
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210801232830.png)
 
-* 选择从<mark style="color:orange;">**URL导入**</mark>→**将**<mark style="color:red;">**订阅链接/URL**</mark>**链接粘贴在URL栏 然后点保存**
+点击主界面的–<mark style="color:orange;">**配置**</mark>
+
+将<mark style="color:orange;">**订阅链接/URL链接**</mark>粘贴在填入文本框中 然后点下载
 
 <details>
 
@@ -53,18 +54,19 @@ coverY: 0
 
 ![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/41564165165.jpg)
 
-{% hint style="warning" %}
-保存失败请检查订阅链接，确保前后无中文空格和特殊字符 ，或者请先关闭加速器连接！
-{% endhint %}
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210801232840.png)
 
-* 在<mark style="color:orange;">**首页配置**</mark>中选中新加入的→<mark style="color:orange;">**订阅链接/URL**</mark>**配置→回到首页点**<mark style="color:orange;">**启动**</mark>
+显示成功即订阅导入成功
 
-![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210717102634.jpeg)
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210801232853.png)
 
-* 点完<mark style="color:orange;">**启动**</mark>后 会看见下方会多出一个<mark style="color:orange;">**代理**</mark>
-* **点开代理→会看到节点列表→下拉顺序选延迟数字小的连接即可**
+最后在在<mark style="color:orange;">**常规**</mark>中把<mark style="color:orange;">**系统代理**</mark>打开**即配置完毕 同时可以看下状态栏位置蓝色小猫变成黄色**
 
-![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210802002524.jpg)
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/20210801232859.png)
+
+**点开**<mark style="color:orange;">**代理**</mark>**→会看到节点列表→下拉顺序选延迟数字小的连接即可**
+
+![](https://1-1306085497.cos.ap-shanghai.myqcloud.com/img/image-2.png)
 
 {% hint style="info" %}
 :hotsprings:推荐🇭🇰香港节点🚀速度最快，<mark style="color:red;">**推特和INS**</mark>的建议选🇭🇰香港以外的节点，例如🇯🇵日本🇸🇬新加坡🇺🇸美国🇹🇼台湾等。
@@ -86,6 +88,6 @@ coverY: 0
 
 </details>
 
-{% content-ref url="../help/" %}
-[help](../help/)
+{% content-ref url="../../help/" %}
+[help](../../help/)
 {% endcontent-ref %}

@@ -2,7 +2,7 @@
 description: 请务必仔细阅读文档，你所遇到的一切问题，该文档都都对应的解决方案。
 ---
 
-# 🏠 帮助文档
+# 🏠 Home
 
 {% hint style="success" %}
 欢迎访问 顽客科技 的文档中心！建议**收藏**此网页 长期稳定有效 认准唯一**售后微信gqzw77**
@@ -14,20 +14,20 @@ description: 请务必仔细阅读文档，你所遇到的一切问题，该文�
 具体各平台使用教程，请点左上角"三”列表图标可展开教程也可点下方导航快速直达
 {% endhint %}
 
-{% content-ref url="install/and.md" %}
-[and.md](install/and.md)
+{% content-ref url="pei-zhi-jiao-cheng/install/and.md" %}
+[and.md](pei-zhi-jiao-cheng/install/and.md)
 {% endcontent-ref %}
 
-{% content-ref url="install/ios.md" %}
-[ios.md](install/ios.md)
+{% content-ref url="pei-zhi-jiao-cheng/install/ios.md" %}
+[ios.md](pei-zhi-jiao-cheng/install/ios.md)
 {% endcontent-ref %}
 
-{% content-ref url="install/win.md" %}
-[win.md](install/win.md)
+{% content-ref url="pei-zhi-jiao-cheng/install/win.md" %}
+[win.md](pei-zhi-jiao-cheng/install/win.md)
 {% endcontent-ref %}
 
-{% content-ref url="install/mac-ping-guo-dian-nao.md" %}
-[mac-ping-guo-dian-nao.md](install/mac-ping-guo-dian-nao.md)
+{% content-ref url="pei-zhi-jiao-cheng/install/mac-ping-guo-dian-nao.md" %}
+[mac-ping-guo-dian-nao.md](pei-zhi-jiao-cheng/install/mac-ping-guo-dian-nao.md)
 {% endcontent-ref %}
 
 {% content-ref url="help/" %}
