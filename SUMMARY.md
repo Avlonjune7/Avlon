@@ -16,3 +16,7 @@
   * [节点介绍](help/jie-dian-jie-shao.md)
 * [下载中心](https://gqzw.lanzouo.com/b0mwll2d)
 * [怎么让网路全部走加速器](zen-mo-rang-wang-lu-quan-bu-zou-jia-su-qi.md)
+* [INS安装注册和使用滤镜](ins-an-zhuang-zhu-ce-he-shi-yong-lv-jing.md)
+* [推特安装注册和设置中文](tui-te-an-zhuang-zhu-ce-he-she-zhi-zhong-wen.md)
+* [Tiktok使用教程](tiktok-shi-yong-jiao-cheng.md)
+* [Telegram安装注册和设置中文](telegram-an-zhuang-zhu-ce-he-she-zhi-zhong-wen.md)

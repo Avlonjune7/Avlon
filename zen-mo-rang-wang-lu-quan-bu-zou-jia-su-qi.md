@@ -14,9 +14,7 @@
 
 彻底关闭b站app 复制下方链接在浏览器打开
 
-```
-https://www.bilibili.com/bangumi/play/ss40083/?from=search&seid=9198947691566642776
-```
+{% embed url="https://www.bilibili.com/bangumi/play/ss40083?from=search&seid=9198947691566642776" %}
 
 ### 安卓客户端
 
@@ -26,9 +24,7 @@ https://www.bilibili.com/bangumi/play/ss40083/?from=search&seid=9198947691566642
 
 彻底关闭b站app 复制下方链接在浏览器打开
 
-```
-https://www.bilibili.com/bangumi/play/ss40083/?from=search&seid=9198947691566642776
-```
+{% embed url="https://www.bilibili.com/bangumi/play/ss40083?from=search&seid=9198947691566642776" %}
 
 ### win电脑端
 
@@ -36,6 +32,4 @@ https://www.bilibili.com/bangumi/play/ss40083/?from=search&seid=9198947691566642
 
 彻底关闭b站app 复制下方链接在浏览器打开
 
-```
-https://www.bilibili.com/bangumi/play/ss40083/?from=search&seid=9198947691566642776
-```
+{% embed url="https://www.bilibili.com/bangumi/play/ss40083?from=search&seid=9198947691566642776" %}
