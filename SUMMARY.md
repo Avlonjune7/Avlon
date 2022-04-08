@@ -1,7 +1,6 @@
 # Table of contents
 
 * [🏠 帮助文档](README.md)
-* [官方购买地址](https://buy.wvker.com)
 * [📃 配置教程](install/README.md)
   * [📱 Android安卓](install/and.md)
   * [🍎 Apple IOS苹果](install/ios.md)
@@ -15,7 +14,6 @@
   * [我怎么看是否到期/流量用尽](help/wo-zen-mo-kan-shi-fou-dao-qi-liu-liang-yong-jin.md)
   * [节点介绍](help/jie-dian-jie-shao.md)
   * [怎么让网路全部走加速器](help/zen-mo-rang-wang-lu-quan-bu-zou-jia-su-qi.md)
-* [下载中心](https://gqzw.lanzouo.com/b0mwll2d)
 * [海外热门APP使用教程](hai-wai-re-men-app-shi-yong-jiao-cheng/README.md)
   * [推特安装注册和设置中文](hai-wai-re-men-app-shi-yong-jiao-cheng/tui-te-an-zhuang-zhu-ce-he-she-zhi-zhong-wen.md)
   * [INS安装注册和使用滤镜](hai-wai-re-men-app-shi-yong-jiao-cheng/ins-an-zhuang-zhu-ce-he-shi-yong-lv-jing.md)
@@ -23,5 +21,7 @@
   * [Telegram安装注册和设置中文](hai-wai-re-men-app-shi-yong-jiao-cheng/telegram-an-zhuang-zhu-ce-he-she-zhi-zhong-wen.md)
   * [怎么观看奈飞](hai-wai-re-men-app-shi-yong-jiao-cheng/zen-mo-guan-kan-nai-fei.md)
   * [海外热门APP汇总合集](hai-wai-re-men-app-shi-yong-jiao-cheng/hai-wai-re-men-app-hui-zong-he-ji.md)
+* [官方购买地址](https://buy.wvker.com)
+* [下载中心](https://gqzw.lanzouo.com/b0mwll2d)
 
 ## Group 1
